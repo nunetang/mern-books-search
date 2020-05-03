@@ -31,5 +31,8 @@
       "not op_mini all",
       "ie 11"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-transform-decorators-legacy": "^1.3.5"
   }
 }
